@@ -1,3 +1,3 @@
 #!/bin/bash
 
-ech "world"
+echo "world"
